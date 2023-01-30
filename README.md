@@ -18,5 +18,6 @@ Selective hiring tactics have been taking place that affect considerations when 
 ## Article 2, Considerations  
 Similar to Deloitte Insights, [The Impact of Big Data on Modern Society](https://www.getsmarter.com/blog/market-trends/the-impact-of-big-data-on-modern-society/) discusses how big data applies to our society and why the recent spike in tech trends should be paid close attention to. For buisnesses, analyzing large-scale social media and browsing behavior can help buisnesses create a more complete profile on it's customers and target demographic. Subseuqently, this specific level of insight can help buisnesses make more informed marketing decisions to help promote their product or service to those more likely to want it.  
   
-  
-Additionally, data also serves a purpose in healthcare with patient records being digitized. With the help of AI and advanced data analysis applications, there is more efficient ways to identify things like kidney disease or breast cancer, and also decreasing the likelihood of leukemia remission. 
+
+Additionally, data also serves a purpose in healthcare with patient records being digitized. With the help of AI and advanced data analysis applications, there is more efficient ways to identify things like kidney disease or breast cancer, and also decreasing the likelihood of leukemia remission. In other ways, data also serves to deliver personalized healthcare to patients based on their medical records. Data around patient demographics and prediciting the likelihood on future diseases and reccomending possible treatment options for the patient.  
+
